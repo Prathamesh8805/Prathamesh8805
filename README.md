@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Prathamesh Bhongale</h1>
 
 
-- 🔭 I’m currently working on **FrontEnd Web Development**
-
-- 🌱 I’m currently learning **React,Js,etc**
+- 🔭 I’m currently learning **AWS, Azure and DevOps**
 
 - 📫 How to reach me **bhongaleprathamesh@gmail.com**
 
-- ⚡ Fun fact **I am crazy about bikes.**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
