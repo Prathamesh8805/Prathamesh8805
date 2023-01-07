@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prathamesh Bhongale</h1>
-<h3 align="center">Aspiring Front-End Developer</h3>
+
 
 - 🔭 I’m currently working on **FrontEnd Web Development**
 
